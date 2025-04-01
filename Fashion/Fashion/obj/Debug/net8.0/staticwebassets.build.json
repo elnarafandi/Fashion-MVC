@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "bbsVrK+lA+QGG7hOwfy5xRCXJhh7IS5N6XUDnKSRW5E=",
+  "Hash": "VTWHpzVAghzgxfF2j/NPAiiuQvlQJ01L3oCxC2vFM4s=",
   "Source": "Fashion",
   "BasePath": "_content/Fashion",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "Fashion\\wwwroot",
       "Source": "Fashion",
-      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\",
       "BasePath": "_content/Fashion",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Fashion.styles.css",
+      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Fashion.styles.css",
       "SourceId": "Fashion",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/Fashion",
       "RelativePath": "Fashion.styles.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Fashion.styles.css"
+      "OriginalItemSpec": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Fashion.styles.css"
     },
     {
-      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Fashion.bundle.scp.css",
+      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Fashion.bundle.scp.css",
       "SourceId": "Fashion",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/Fashion",
       "RelativePath": "Fashion.bundle.scp.css",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Fashion.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Fashion.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\css\\bootstrap.min.css",
       "SourceId": "Fashion",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\",
       "BasePath": "_content/Fashion",
       "RelativePath": "css/bootstrap.min.css",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\css\\elegant-icons.css",
+      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\css\\elegant-icons.css",
       "SourceId": "Fashion",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\",
       "BasePath": "_content/Fashion",
       "RelativePath": "css/elegant-icons.css",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\css\\elegant-icons.css"
     },
     {
-      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\css\\font-awesome.min.css",
+      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\css\\font-awesome.min.css",
       "SourceId": "Fashion",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\",
       "BasePath": "_content/Fashion",
       "RelativePath": "css/font-awesome.min.css",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\css\\font-awesome.min.css"
     },
     {
-      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\css\\magnific-popup.css",
+      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\css\\magnific-popup.css",
       "SourceId": "Fashion",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\",
       "BasePath": "_content/Fashion",
       "RelativePath": "css/magnific-popup.css",
       "AssetKind": "All",
@@ -131,10 +131,10 @@
       "OriginalItemSpec": "wwwroot\\css\\magnific-popup.css"
     },
     {
-      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\css\\nice-select.css",
+      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\css\\nice-select.css",
       "SourceId": "Fashion",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\",
       "BasePath": "_content/Fashion",
       "RelativePath": "css/nice-select.css",
       "AssetKind": "All",
@@ -150,10 +150,10 @@
       "OriginalItemSpec": "wwwroot\\css\\nice-select.css"
     },
     {
-      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\css\\owl.carousel.min.css",
+      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\css\\owl.carousel.min.css",
       "SourceId": "Fashion",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\",
       "BasePath": "_content/Fashion",
       "RelativePath": "css/owl.carousel.min.css",
       "AssetKind": "All",
@@ -169,10 +169,10 @@
       "OriginalItemSpec": "wwwroot\\css\\owl.carousel.min.css"
     },
     {
-      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\css\\slicknav.min.css",
+      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\css\\slicknav.min.css",
       "SourceId": "Fashion",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\",
       "BasePath": "_content/Fashion",
       "RelativePath": "css/slicknav.min.css",
       "AssetKind": "All",
@@ -188,10 +188,10 @@
       "OriginalItemSpec": "wwwroot\\css\\slicknav.min.css"
     },
     {
-      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\css\\style.css",
+      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\css\\style.css",
       "SourceId": "Fashion",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\",
       "BasePath": "_content/Fashion",
       "RelativePath": "css/style.css",
       "AssetKind": "All",
@@ -207,10 +207,10 @@
       "OriginalItemSpec": "wwwroot\\css\\style.css"
     },
     {
-      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\css\\style.css.map",
+      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\css\\style.css.map",
       "SourceId": "Fashion",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\",
       "BasePath": "_content/Fashion",
       "RelativePath": "css/style.css.map",
       "AssetKind": "All",
@@ -226,10 +226,10 @@
       "OriginalItemSpec": "wwwroot\\css\\style.css.map"
     },
     {
-      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\fonts\\ElegantIcons.eot",
+      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\fonts\\ElegantIcons.eot",
       "SourceId": "Fashion",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\",
       "BasePath": "_content/Fashion",
       "RelativePath": "fonts/ElegantIcons.eot",
       "AssetKind": "All",
@@ -245,10 +245,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\ElegantIcons.eot"
     },
     {
-      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\fonts\\ElegantIcons.svg",
+      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\fonts\\ElegantIcons.svg",
       "SourceId": "Fashion",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\",
       "BasePath": "_content/Fashion",
       "RelativePath": "fonts/ElegantIcons.svg",
       "AssetKind": "All",
@@ -264,10 +264,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\ElegantIcons.svg"
     },
     {
-      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\fonts\\ElegantIcons.ttf",
+      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\fonts\\ElegantIcons.ttf",
       "SourceId": "Fashion",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\",
       "BasePath": "_content/Fashion",
       "RelativePath": "fonts/ElegantIcons.ttf",
       "AssetKind": "All",
@@ -283,10 +283,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\ElegantIcons.ttf"
     },
     {
-      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\fonts\\ElegantIcons.woff",
+      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\fonts\\ElegantIcons.woff",
       "SourceId": "Fashion",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\",
       "BasePath": "_content/Fashion",
       "RelativePath": "fonts/ElegantIcons.woff",
       "AssetKind": "All",
@@ -302,10 +302,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\ElegantIcons.woff"
     },
     {
-      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\fonts\\FontAwesome.otf",
+      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\fonts\\FontAwesome.otf",
       "SourceId": "Fashion",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\",
       "BasePath": "_content/Fashion",
       "RelativePath": "fonts/FontAwesome.otf",
       "AssetKind": "All",
@@ -321,10 +321,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\FontAwesome.otf"
     },
     {
-      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\fonts\\fontawesome-webfont.eot",
+      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\fonts\\fontawesome-webfont.eot",
       "SourceId": "Fashion",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\",
       "BasePath": "_content/Fashion",
       "RelativePath": "fonts/fontawesome-webfont.eot",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fontawesome-webfont.eot"
     },
     {
-      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\fonts\\fontawesome-webfont.svg",
+      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\fonts\\fontawesome-webfont.svg",
       "SourceId": "Fashion",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\",
       "BasePath": "_content/Fashion",
       "RelativePath": "fonts/fontawesome-webfont.svg",
       "AssetKind": "All",
@@ -359,10 +359,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fontawesome-webfont.svg"
     },
     {
-      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\fonts\\fontawesome-webfont.ttf",
+      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\fonts\\fontawesome-webfont.ttf",
       "SourceId": "Fashion",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\",
       "BasePath": "_content/Fashion",
       "RelativePath": "fonts/fontawesome-webfont.ttf",
       "AssetKind": "All",
@@ -378,10 +378,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fontawesome-webfont.ttf"
     },
     {
-      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\fonts\\fontawesome-webfont.woff",
+      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\fonts\\fontawesome-webfont.woff",
       "SourceId": "Fashion",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\",
       "BasePath": "_content/Fashion",
       "RelativePath": "fonts/fontawesome-webfont.woff",
       "AssetKind": "All",
@@ -397,10 +397,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fontawesome-webfont.woff"
     },
     {
-      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\fonts\\fontawesome-webfont.woff2",
+      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\fonts\\fontawesome-webfont.woff2",
       "SourceId": "Fashion",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\",
       "BasePath": "_content/Fashion",
       "RelativePath": "fonts/fontawesome-webfont.woff2",
       "AssetKind": "All",
@@ -416,10 +416,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fontawesome-webfont.woff2"
     },
     {
-      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\img\\about\\about-us.jpg",
+      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\img\\about\\about-us.jpg",
       "SourceId": "Fashion",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\",
       "BasePath": "_content/Fashion",
       "RelativePath": "img/about/about-us.jpg",
       "AssetKind": "All",
@@ -435,10 +435,10 @@
       "OriginalItemSpec": "wwwroot\\img\\about\\about-us.jpg"
     },
     {
-      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\img\\about\\team-1.jpg",
+      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\img\\about\\team-1.jpg",
       "SourceId": "Fashion",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\",
       "BasePath": "_content/Fashion",
       "RelativePath": "img/about/team-1.jpg",
       "AssetKind": "All",
@@ -454,10 +454,10 @@
       "OriginalItemSpec": "wwwroot\\img\\about\\team-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\img\\about\\team-2.jpg",
+      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\img\\about\\team-2.jpg",
       "SourceId": "Fashion",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\",
       "BasePath": "_content/Fashion",
       "RelativePath": "img/about/team-2.jpg",
       "AssetKind": "All",
@@ -473,10 +473,10 @@
       "OriginalItemSpec": "wwwroot\\img\\about\\team-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\img\\about\\team-3.jpg",
+      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\img\\about\\team-3.jpg",
       "SourceId": "Fashion",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\",
       "BasePath": "_content/Fashion",
       "RelativePath": "img/about/team-3.jpg",
       "AssetKind": "All",
@@ -492,10 +492,10 @@
       "OriginalItemSpec": "wwwroot\\img\\about\\team-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\img\\about\\team-4.jpg",
+      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\img\\about\\team-4.jpg",
       "SourceId": "Fashion",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\",
       "BasePath": "_content/Fashion",
       "RelativePath": "img/about/team-4.jpg",
       "AssetKind": "All",
@@ -511,10 +511,10 @@
       "OriginalItemSpec": "wwwroot\\img\\about\\team-4.jpg"
     },
     {
-      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\img\\about\\testimonial-author.jpg",
+      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\img\\about\\testimonial-author.jpg",
       "SourceId": "Fashion",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\",
       "BasePath": "_content/Fashion",
       "RelativePath": "img/about/testimonial-author.jpg",
       "AssetKind": "All",
@@ -530,10 +530,10 @@
       "OriginalItemSpec": "wwwroot\\img\\about\\testimonial-author.jpg"
     },
     {
-      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\img\\about\\testimonial-pic.jpg",
+      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\img\\about\\testimonial-pic.jpg",
       "SourceId": "Fashion",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\",
       "BasePath": "_content/Fashion",
       "RelativePath": "img/about/testimonial-pic.jpg",
       "AssetKind": "All",
@@ -549,10 +549,10 @@
       "OriginalItemSpec": "wwwroot\\img\\about\\testimonial-pic.jpg"
     },
     {
-      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\img\\banner\\banner-1.jpg",
+      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\img\\banner\\banner-1.jpg",
       "SourceId": "Fashion",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\",
       "BasePath": "_content/Fashion",
       "RelativePath": "img/banner/banner-1.jpg",
       "AssetKind": "All",
@@ -568,10 +568,10 @@
       "OriginalItemSpec": "wwwroot\\img\\banner\\banner-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\img\\banner\\banner-2.jpg",
+      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\img\\banner\\banner-2.jpg",
       "SourceId": "Fashion",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\",
       "BasePath": "_content/Fashion",
       "RelativePath": "img/banner/banner-2.jpg",
       "AssetKind": "All",
@@ -587,10 +587,10 @@
       "OriginalItemSpec": "wwwroot\\img\\banner\\banner-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\img\\banner\\banner-3.jpg",
+      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\img\\banner\\banner-3.jpg",
       "SourceId": "Fashion",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\",
       "BasePath": "_content/Fashion",
       "RelativePath": "img/banner/banner-3.jpg",
       "AssetKind": "All",
@@ -606,10 +606,10 @@
       "OriginalItemSpec": "wwwroot\\img\\banner\\banner-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\img\\blog\\blog-1.jpg",
+      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\img\\blog\\blog-1.jpg",
       "SourceId": "Fashion",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\",
       "BasePath": "_content/Fashion",
       "RelativePath": "img/blog/blog-1.jpg",
       "AssetKind": "All",
@@ -625,10 +625,10 @@
       "OriginalItemSpec": "wwwroot\\img\\blog\\blog-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\img\\blog\\blog-2.jpg",
+      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\img\\blog\\blog-2.jpg",
       "SourceId": "Fashion",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\",
       "BasePath": "_content/Fashion",
       "RelativePath": "img/blog/blog-2.jpg",
       "AssetKind": "All",
@@ -644,10 +644,10 @@
       "OriginalItemSpec": "wwwroot\\img\\blog\\blog-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\img\\blog\\blog-3.jpg",
+      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\img\\blog\\blog-3.jpg",
       "SourceId": "Fashion",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\",
       "BasePath": "_content/Fashion",
       "RelativePath": "img/blog/blog-3.jpg",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\img\\blog\\blog-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\img\\blog\\blog-4.jpg",
+      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\img\\blog\\blog-4.jpg",
       "SourceId": "Fashion",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\",
       "BasePath": "_content/Fashion",
       "RelativePath": "img/blog/blog-4.jpg",
       "AssetKind": "All",
@@ -682,10 +682,10 @@
       "OriginalItemSpec": "wwwroot\\img\\blog\\blog-4.jpg"
     },
     {
-      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\img\\blog\\blog-5.jpg",
+      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\img\\blog\\blog-5.jpg",
       "SourceId": "Fashion",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\",
       "BasePath": "_content/Fashion",
       "RelativePath": "img/blog/blog-5.jpg",
       "AssetKind": "All",
@@ -701,10 +701,10 @@
       "OriginalItemSpec": "wwwroot\\img\\blog\\blog-5.jpg"
     },
     {
-      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\img\\blog\\blog-6.jpg",
+      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\img\\blog\\blog-6.jpg",
       "SourceId": "Fashion",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\",
       "BasePath": "_content/Fashion",
       "RelativePath": "img/blog/blog-6.jpg",
       "AssetKind": "All",
@@ -720,10 +720,10 @@
       "OriginalItemSpec": "wwwroot\\img\\blog\\blog-6.jpg"
     },
     {
-      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\img\\blog\\blog-7.jpg",
+      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\img\\blog\\blog-7.jpg",
       "SourceId": "Fashion",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\",
       "BasePath": "_content/Fashion",
       "RelativePath": "img/blog/blog-7.jpg",
       "AssetKind": "All",
@@ -739,10 +739,10 @@
       "OriginalItemSpec": "wwwroot\\img\\blog\\blog-7.jpg"
     },
     {
-      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\img\\blog\\blog-8.jpg",
+      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\img\\blog\\blog-8.jpg",
       "SourceId": "Fashion",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\",
       "BasePath": "_content/Fashion",
       "RelativePath": "img/blog/blog-8.jpg",
       "AssetKind": "All",
@@ -758,10 +758,10 @@
       "OriginalItemSpec": "wwwroot\\img\\blog\\blog-8.jpg"
     },
     {
-      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\img\\blog\\blog-9.jpg",
+      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\img\\blog\\blog-9.jpg",
       "SourceId": "Fashion",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\",
       "BasePath": "_content/Fashion",
       "RelativePath": "img/blog/blog-9.jpg",
       "AssetKind": "All",
@@ -777,10 +777,10 @@
       "OriginalItemSpec": "wwwroot\\img\\blog\\blog-9.jpg"
     },
     {
-      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\img\\blog\\details\\blog-author.jpg",
+      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\img\\blog\\details\\blog-author.jpg",
       "SourceId": "Fashion",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\",
       "BasePath": "_content/Fashion",
       "RelativePath": "img/blog/details/blog-author.jpg",
       "AssetKind": "All",
@@ -796,10 +796,10 @@
       "OriginalItemSpec": "wwwroot\\img\\blog\\details\\blog-author.jpg"
     },
     {
-      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\img\\blog\\details\\blog-details.jpg",
+      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\img\\blog\\details\\blog-details.jpg",
       "SourceId": "Fashion",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\",
       "BasePath": "_content/Fashion",
       "RelativePath": "img/blog/details/blog-details.jpg",
       "AssetKind": "All",
@@ -815,10 +815,10 @@
       "OriginalItemSpec": "wwwroot\\img\\blog\\details\\blog-details.jpg"
     },
     {
-      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\img\\breadcrumb-bg.jpg",
+      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\img\\breadcrumb-bg.jpg",
       "SourceId": "Fashion",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\",
       "BasePath": "_content/Fashion",
       "RelativePath": "img/breadcrumb-bg.jpg",
       "AssetKind": "All",
@@ -834,10 +834,10 @@
       "OriginalItemSpec": "wwwroot\\img\\breadcrumb-bg.jpg"
     },
     {
-      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\img\\clients\\client-1.png",
+      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\img\\clients\\client-1.png",
       "SourceId": "Fashion",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\",
       "BasePath": "_content/Fashion",
       "RelativePath": "img/clients/client-1.png",
       "AssetKind": "All",
@@ -853,10 +853,10 @@
       "OriginalItemSpec": "wwwroot\\img\\clients\\client-1.png"
     },
     {
-      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\img\\clients\\client-2.png",
+      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\img\\clients\\client-2.png",
       "SourceId": "Fashion",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\",
       "BasePath": "_content/Fashion",
       "RelativePath": "img/clients/client-2.png",
       "AssetKind": "All",
@@ -872,10 +872,10 @@
       "OriginalItemSpec": "wwwroot\\img\\clients\\client-2.png"
     },
     {
-      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\img\\clients\\client-3.png",
+      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\img\\clients\\client-3.png",
       "SourceId": "Fashion",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\",
       "BasePath": "_content/Fashion",
       "RelativePath": "img/clients/client-3.png",
       "AssetKind": "All",
@@ -891,10 +891,10 @@
       "OriginalItemSpec": "wwwroot\\img\\clients\\client-3.png"
     },
     {
-      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\img\\clients\\client-4.png",
+      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\img\\clients\\client-4.png",
       "SourceId": "Fashion",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\",
       "BasePath": "_content/Fashion",
       "RelativePath": "img/clients/client-4.png",
       "AssetKind": "All",
@@ -910,10 +910,10 @@
       "OriginalItemSpec": "wwwroot\\img\\clients\\client-4.png"
     },
     {
-      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\img\\clients\\client-5.png",
+      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\img\\clients\\client-5.png",
       "SourceId": "Fashion",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\",
       "BasePath": "_content/Fashion",
       "RelativePath": "img/clients/client-5.png",
       "AssetKind": "All",
@@ -929,10 +929,10 @@
       "OriginalItemSpec": "wwwroot\\img\\clients\\client-5.png"
     },
     {
-      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\img\\clients\\client-6.png",
+      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\img\\clients\\client-6.png",
       "SourceId": "Fashion",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\",
       "BasePath": "_content/Fashion",
       "RelativePath": "img/clients/client-6.png",
       "AssetKind": "All",
@@ -948,10 +948,10 @@
       "OriginalItemSpec": "wwwroot\\img\\clients\\client-6.png"
     },
     {
-      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\img\\clients\\client-7.png",
+      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\img\\clients\\client-7.png",
       "SourceId": "Fashion",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\",
       "BasePath": "_content/Fashion",
       "RelativePath": "img/clients/client-7.png",
       "AssetKind": "All",
@@ -967,10 +967,10 @@
       "OriginalItemSpec": "wwwroot\\img\\clients\\client-7.png"
     },
     {
-      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\img\\clients\\client-8.png",
+      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\img\\clients\\client-8.png",
       "SourceId": "Fashion",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\",
       "BasePath": "_content/Fashion",
       "RelativePath": "img/clients/client-8.png",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\img\\clients\\client-8.png"
     },
     {
-      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\img\\footer-logo.png",
+      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\img\\footer-logo.png",
       "SourceId": "Fashion",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\",
       "BasePath": "_content/Fashion",
       "RelativePath": "img/footer-logo.png",
       "AssetKind": "All",
@@ -1005,10 +1005,10 @@
       "OriginalItemSpec": "wwwroot\\img\\footer-logo.png"
     },
     {
-      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\img\\hero\\hero-1.jpg",
+      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\img\\hero\\hero-1.jpg",
       "SourceId": "Fashion",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\",
       "BasePath": "_content/Fashion",
       "RelativePath": "img/hero/hero-1.jpg",
       "AssetKind": "All",
@@ -1024,10 +1024,10 @@
       "OriginalItemSpec": "wwwroot\\img\\hero\\hero-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\img\\hero\\hero-2.jpg",
+      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\img\\hero\\hero-2.jpg",
       "SourceId": "Fashion",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\",
       "BasePath": "_content/Fashion",
       "RelativePath": "img/hero/hero-2.jpg",
       "AssetKind": "All",
@@ -1043,10 +1043,10 @@
       "OriginalItemSpec": "wwwroot\\img\\hero\\hero-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\img\\icon\\calendar.png",
+      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\img\\icon\\calendar.png",
       "SourceId": "Fashion",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\",
       "BasePath": "_content/Fashion",
       "RelativePath": "img/icon/calendar.png",
       "AssetKind": "All",
@@ -1062,10 +1062,10 @@
       "OriginalItemSpec": "wwwroot\\img\\icon\\calendar.png"
     },
     {
-      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\img\\icon\\cart.png",
+      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\img\\icon\\cart.png",
       "SourceId": "Fashion",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\",
       "BasePath": "_content/Fashion",
       "RelativePath": "img/icon/cart.png",
       "AssetKind": "All",
@@ -1081,10 +1081,10 @@
       "OriginalItemSpec": "wwwroot\\img\\icon\\cart.png"
     },
     {
-      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\img\\icon\\compare.png",
+      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\img\\icon\\compare.png",
       "SourceId": "Fashion",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\",
       "BasePath": "_content/Fashion",
       "RelativePath": "img/icon/compare.png",
       "AssetKind": "All",
@@ -1100,10 +1100,10 @@
       "OriginalItemSpec": "wwwroot\\img\\icon\\compare.png"
     },
     {
-      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\img\\icon\\heart.png",
+      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\img\\icon\\heart.png",
       "SourceId": "Fashion",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\",
       "BasePath": "_content/Fashion",
       "RelativePath": "img/icon/heart.png",
       "AssetKind": "All",
@@ -1119,10 +1119,10 @@
       "OriginalItemSpec": "wwwroot\\img\\icon\\heart.png"
     },
     {
-      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\img\\icon\\search.png",
+      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\img\\icon\\search.png",
       "SourceId": "Fashion",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\",
       "BasePath": "_content/Fashion",
       "RelativePath": "img/icon/search.png",
       "AssetKind": "All",
@@ -1138,10 +1138,10 @@
       "OriginalItemSpec": "wwwroot\\img\\icon\\search.png"
     },
     {
-      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\img\\instagram\\instagram-1.jpg",
+      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\img\\instagram\\instagram-1.jpg",
       "SourceId": "Fashion",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\",
       "BasePath": "_content/Fashion",
       "RelativePath": "img/instagram/instagram-1.jpg",
       "AssetKind": "All",
@@ -1157,10 +1157,10 @@
       "OriginalItemSpec": "wwwroot\\img\\instagram\\instagram-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\img\\instagram\\instagram-2.jpg",
+      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\img\\instagram\\instagram-2.jpg",
       "SourceId": "Fashion",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\",
       "BasePath": "_content/Fashion",
       "RelativePath": "img/instagram/instagram-2.jpg",
       "AssetKind": "All",
@@ -1176,10 +1176,10 @@
       "OriginalItemSpec": "wwwroot\\img\\instagram\\instagram-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\img\\instagram\\instagram-3.jpg",
+      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\img\\instagram\\instagram-3.jpg",
       "SourceId": "Fashion",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\",
       "BasePath": "_content/Fashion",
       "RelativePath": "img/instagram/instagram-3.jpg",
       "AssetKind": "All",
@@ -1195,10 +1195,10 @@
       "OriginalItemSpec": "wwwroot\\img\\instagram\\instagram-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\img\\instagram\\instagram-4.jpg",
+      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\img\\instagram\\instagram-4.jpg",
       "SourceId": "Fashion",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\",
       "BasePath": "_content/Fashion",
       "RelativePath": "img/instagram/instagram-4.jpg",
       "AssetKind": "All",
@@ -1214,10 +1214,10 @@
       "OriginalItemSpec": "wwwroot\\img\\instagram\\instagram-4.jpg"
     },
     {
-      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\img\\instagram\\instagram-5.jpg",
+      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\img\\instagram\\instagram-5.jpg",
       "SourceId": "Fashion",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\",
       "BasePath": "_content/Fashion",
       "RelativePath": "img/instagram/instagram-5.jpg",
       "AssetKind": "All",
@@ -1233,10 +1233,10 @@
       "OriginalItemSpec": "wwwroot\\img\\instagram\\instagram-5.jpg"
     },
     {
-      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\img\\instagram\\instagram-6.jpg",
+      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\img\\instagram\\instagram-6.jpg",
       "SourceId": "Fashion",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\",
       "BasePath": "_content/Fashion",
       "RelativePath": "img/instagram/instagram-6.jpg",
       "AssetKind": "All",
@@ -1252,10 +1252,10 @@
       "OriginalItemSpec": "wwwroot\\img\\instagram\\instagram-6.jpg"
     },
     {
-      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\img\\logo.png",
+      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\img\\logo.png",
       "SourceId": "Fashion",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\",
       "BasePath": "_content/Fashion",
       "RelativePath": "img/logo.png",
       "AssetKind": "All",
@@ -1271,10 +1271,10 @@
       "OriginalItemSpec": "wwwroot\\img\\logo.png"
     },
     {
-      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\img\\payment.png",
+      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\img\\payment.png",
       "SourceId": "Fashion",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\",
       "BasePath": "_content/Fashion",
       "RelativePath": "img/payment.png",
       "AssetKind": "All",
@@ -1290,10 +1290,10 @@
       "OriginalItemSpec": "wwwroot\\img\\payment.png"
     },
     {
-      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\img\\product\\product-1.jpg",
+      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\img\\product\\product-1.jpg",
       "SourceId": "Fashion",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\",
       "BasePath": "_content/Fashion",
       "RelativePath": "img/product/product-1.jpg",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\img\\product\\product-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\img\\product\\product-10.jpg",
+      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\img\\product\\product-10.jpg",
       "SourceId": "Fashion",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\",
       "BasePath": "_content/Fashion",
       "RelativePath": "img/product/product-10.jpg",
       "AssetKind": "All",
@@ -1328,10 +1328,10 @@
       "OriginalItemSpec": "wwwroot\\img\\product\\product-10.jpg"
     },
     {
-      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\img\\product\\product-11.jpg",
+      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\img\\product\\product-11.jpg",
       "SourceId": "Fashion",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\",
       "BasePath": "_content/Fashion",
       "RelativePath": "img/product/product-11.jpg",
       "AssetKind": "All",
@@ -1347,10 +1347,10 @@
       "OriginalItemSpec": "wwwroot\\img\\product\\product-11.jpg"
     },
     {
-      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\img\\product\\product-12.jpg",
+      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\img\\product\\product-12.jpg",
       "SourceId": "Fashion",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\",
       "BasePath": "_content/Fashion",
       "RelativePath": "img/product/product-12.jpg",
       "AssetKind": "All",
@@ -1366,10 +1366,10 @@
       "OriginalItemSpec": "wwwroot\\img\\product\\product-12.jpg"
     },
     {
-      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\img\\product\\product-13.jpg",
+      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\img\\product\\product-13.jpg",
       "SourceId": "Fashion",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\",
       "BasePath": "_content/Fashion",
       "RelativePath": "img/product/product-13.jpg",
       "AssetKind": "All",
@@ -1385,10 +1385,10 @@
       "OriginalItemSpec": "wwwroot\\img\\product\\product-13.jpg"
     },
     {
-      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\img\\product\\product-14.jpg",
+      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\img\\product\\product-14.jpg",
       "SourceId": "Fashion",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\",
       "BasePath": "_content/Fashion",
       "RelativePath": "img/product/product-14.jpg",
       "AssetKind": "All",
@@ -1404,10 +1404,10 @@
       "OriginalItemSpec": "wwwroot\\img\\product\\product-14.jpg"
     },
     {
-      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\img\\product\\product-2.jpg",
+      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\img\\product\\product-2.jpg",
       "SourceId": "Fashion",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\",
       "BasePath": "_content/Fashion",
       "RelativePath": "img/product/product-2.jpg",
       "AssetKind": "All",
@@ -1423,10 +1423,10 @@
       "OriginalItemSpec": "wwwroot\\img\\product\\product-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\img\\product\\product-3.jpg",
+      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\img\\product\\product-3.jpg",
       "SourceId": "Fashion",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\",
       "BasePath": "_content/Fashion",
       "RelativePath": "img/product/product-3.jpg",
       "AssetKind": "All",
@@ -1442,10 +1442,10 @@
       "OriginalItemSpec": "wwwroot\\img\\product\\product-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\img\\product\\product-4.jpg",
+      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\img\\product\\product-4.jpg",
       "SourceId": "Fashion",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\",
       "BasePath": "_content/Fashion",
       "RelativePath": "img/product/product-4.jpg",
       "AssetKind": "All",
@@ -1461,10 +1461,10 @@
       "OriginalItemSpec": "wwwroot\\img\\product\\product-4.jpg"
     },
     {
-      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\img\\product\\product-5.jpg",
+      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\img\\product\\product-5.jpg",
       "SourceId": "Fashion",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\",
       "BasePath": "_content/Fashion",
       "RelativePath": "img/product/product-5.jpg",
       "AssetKind": "All",
@@ -1480,10 +1480,10 @@
       "OriginalItemSpec": "wwwroot\\img\\product\\product-5.jpg"
     },
     {
-      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\img\\product\\product-6.jpg",
+      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\img\\product\\product-6.jpg",
       "SourceId": "Fashion",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\",
       "BasePath": "_content/Fashion",
       "RelativePath": "img/product/product-6.jpg",
       "AssetKind": "All",
@@ -1499,10 +1499,10 @@
       "OriginalItemSpec": "wwwroot\\img\\product\\product-6.jpg"
     },
     {
-      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\img\\product\\product-7.jpg",
+      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\img\\product\\product-7.jpg",
       "SourceId": "Fashion",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\",
       "BasePath": "_content/Fashion",
       "RelativePath": "img/product/product-7.jpg",
       "AssetKind": "All",
@@ -1518,10 +1518,10 @@
       "OriginalItemSpec": "wwwroot\\img\\product\\product-7.jpg"
     },
     {
-      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\img\\product\\product-8.jpg",
+      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\img\\product\\product-8.jpg",
       "SourceId": "Fashion",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\",
       "BasePath": "_content/Fashion",
       "RelativePath": "img/product/product-8.jpg",
       "AssetKind": "All",
@@ -1537,10 +1537,10 @@
       "OriginalItemSpec": "wwwroot\\img\\product\\product-8.jpg"
     },
     {
-      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\img\\product\\product-9.jpg",
+      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\img\\product\\product-9.jpg",
       "SourceId": "Fashion",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\",
       "BasePath": "_content/Fashion",
       "RelativePath": "img/product/product-9.jpg",
       "AssetKind": "All",
@@ -1556,10 +1556,10 @@
       "OriginalItemSpec": "wwwroot\\img\\product\\product-9.jpg"
     },
     {
-      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\img\\product-sale.png",
+      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\img\\product-sale.png",
       "SourceId": "Fashion",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\",
       "BasePath": "_content/Fashion",
       "RelativePath": "img/product-sale.png",
       "AssetKind": "All",
@@ -1575,10 +1575,10 @@
       "OriginalItemSpec": "wwwroot\\img\\product-sale.png"
     },
     {
-      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\img\\shop-details\\details-payment.png",
+      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\img\\shop-details\\details-payment.png",
       "SourceId": "Fashion",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\",
       "BasePath": "_content/Fashion",
       "RelativePath": "img/shop-details/details-payment.png",
       "AssetKind": "All",
@@ -1594,10 +1594,10 @@
       "OriginalItemSpec": "wwwroot\\img\\shop-details\\details-payment.png"
     },
     {
-      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\img\\shop-details\\product-big.png",
+      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\img\\shop-details\\product-big.png",
       "SourceId": "Fashion",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\",
       "BasePath": "_content/Fashion",
       "RelativePath": "img/shop-details/product-big.png",
       "AssetKind": "All",
@@ -1613,10 +1613,10 @@
       "OriginalItemSpec": "wwwroot\\img\\shop-details\\product-big.png"
     },
     {
-      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\img\\shop-details\\product-big-2.png",
+      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\img\\shop-details\\product-big-2.png",
       "SourceId": "Fashion",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\",
       "BasePath": "_content/Fashion",
       "RelativePath": "img/shop-details/product-big-2.png",
       "AssetKind": "All",
@@ -1632,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\img\\shop-details\\product-big-2.png"
     },
     {
-      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\img\\shop-details\\product-big-3.png",
+      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\img\\shop-details\\product-big-3.png",
       "SourceId": "Fashion",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\",
       "BasePath": "_content/Fashion",
       "RelativePath": "img/shop-details/product-big-3.png",
       "AssetKind": "All",
@@ -1651,10 +1651,10 @@
       "OriginalItemSpec": "wwwroot\\img\\shop-details\\product-big-3.png"
     },
     {
-      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\img\\shop-details\\product-big-4.png",
+      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\img\\shop-details\\product-big-4.png",
       "SourceId": "Fashion",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\",
       "BasePath": "_content/Fashion",
       "RelativePath": "img/shop-details/product-big-4.png",
       "AssetKind": "All",
@@ -1670,10 +1670,10 @@
       "OriginalItemSpec": "wwwroot\\img\\shop-details\\product-big-4.png"
     },
     {
-      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\img\\shop-details\\thumb-1.png",
+      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\img\\shop-details\\thumb-1.png",
       "SourceId": "Fashion",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\",
       "BasePath": "_content/Fashion",
       "RelativePath": "img/shop-details/thumb-1.png",
       "AssetKind": "All",
@@ -1689,10 +1689,10 @@
       "OriginalItemSpec": "wwwroot\\img\\shop-details\\thumb-1.png"
     },
     {
-      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\img\\shop-details\\thumb-2.png",
+      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\img\\shop-details\\thumb-2.png",
       "SourceId": "Fashion",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\",
       "BasePath": "_content/Fashion",
       "RelativePath": "img/shop-details/thumb-2.png",
       "AssetKind": "All",
@@ -1708,10 +1708,10 @@
       "OriginalItemSpec": "wwwroot\\img\\shop-details\\thumb-2.png"
     },
     {
-      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\img\\shop-details\\thumb-3.png",
+      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\img\\shop-details\\thumb-3.png",
       "SourceId": "Fashion",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\",
       "BasePath": "_content/Fashion",
       "RelativePath": "img/shop-details/thumb-3.png",
       "AssetKind": "All",
@@ -1727,10 +1727,10 @@
       "OriginalItemSpec": "wwwroot\\img\\shop-details\\thumb-3.png"
     },
     {
-      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\img\\shop-details\\thumb-4.png",
+      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\img\\shop-details\\thumb-4.png",
       "SourceId": "Fashion",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\",
       "BasePath": "_content/Fashion",
       "RelativePath": "img/shop-details/thumb-4.png",
       "AssetKind": "All",
@@ -1746,10 +1746,10 @@
       "OriginalItemSpec": "wwwroot\\img\\shop-details\\thumb-4.png"
     },
     {
-      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\img\\shopping-cart\\cart-1.jpg",
+      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\img\\shopping-cart\\cart-1.jpg",
       "SourceId": "Fashion",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\",
       "BasePath": "_content/Fashion",
       "RelativePath": "img/shopping-cart/cart-1.jpg",
       "AssetKind": "All",
@@ -1765,10 +1765,10 @@
       "OriginalItemSpec": "wwwroot\\img\\shopping-cart\\cart-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\img\\shopping-cart\\cart-2.jpg",
+      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\img\\shopping-cart\\cart-2.jpg",
       "SourceId": "Fashion",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\",
       "BasePath": "_content/Fashion",
       "RelativePath": "img/shopping-cart/cart-2.jpg",
       "AssetKind": "All",
@@ -1784,10 +1784,10 @@
       "OriginalItemSpec": "wwwroot\\img\\shopping-cart\\cart-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\img\\shopping-cart\\cart-3.jpg",
+      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\img\\shopping-cart\\cart-3.jpg",
       "SourceId": "Fashion",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\",
       "BasePath": "_content/Fashion",
       "RelativePath": "img/shopping-cart/cart-3.jpg",
       "AssetKind": "All",
@@ -1803,10 +1803,10 @@
       "OriginalItemSpec": "wwwroot\\img\\shopping-cart\\cart-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\img\\shopping-cart\\cart-4.jpg",
+      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\img\\shopping-cart\\cart-4.jpg",
       "SourceId": "Fashion",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\",
       "BasePath": "_content/Fashion",
       "RelativePath": "img/shopping-cart/cart-4.jpg",
       "AssetKind": "All",
@@ -1822,10 +1822,10 @@
       "OriginalItemSpec": "wwwroot\\img\\shopping-cart\\cart-4.jpg"
     },
     {
-      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\js\\bootstrap.min.js",
       "SourceId": "Fashion",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\",
       "BasePath": "_content/Fashion",
       "RelativePath": "js/bootstrap.min.js",
       "AssetKind": "All",
@@ -1841,10 +1841,10 @@
       "OriginalItemSpec": "wwwroot\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\js\\jquery.countdown.min.js",
+      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\js\\jquery.countdown.min.js",
       "SourceId": "Fashion",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\",
       "BasePath": "_content/Fashion",
       "RelativePath": "js/jquery.countdown.min.js",
       "AssetKind": "All",
@@ -1860,10 +1860,10 @@
       "OriginalItemSpec": "wwwroot\\js\\jquery.countdown.min.js"
     },
     {
-      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\js\\jquery.magnific-popup.min.js",
+      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\js\\jquery.magnific-popup.min.js",
       "SourceId": "Fashion",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\",
       "BasePath": "_content/Fashion",
       "RelativePath": "js/jquery.magnific-popup.min.js",
       "AssetKind": "All",
@@ -1879,10 +1879,10 @@
       "OriginalItemSpec": "wwwroot\\js\\jquery.magnific-popup.min.js"
     },
     {
-      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\js\\jquery.nicescroll.min.js",
+      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\js\\jquery.nicescroll.min.js",
       "SourceId": "Fashion",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\",
       "BasePath": "_content/Fashion",
       "RelativePath": "js/jquery.nicescroll.min.js",
       "AssetKind": "All",
@@ -1898,10 +1898,10 @@
       "OriginalItemSpec": "wwwroot\\js\\jquery.nicescroll.min.js"
     },
     {
-      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\js\\jquery.nice-select.min.js",
+      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\js\\jquery.nice-select.min.js",
       "SourceId": "Fashion",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\",
       "BasePath": "_content/Fashion",
       "RelativePath": "js/jquery.nice-select.min.js",
       "AssetKind": "All",
@@ -1917,10 +1917,10 @@
       "OriginalItemSpec": "wwwroot\\js\\jquery.nice-select.min.js"
     },
     {
-      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\js\\jquery.slicknav.js",
+      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\js\\jquery.slicknav.js",
       "SourceId": "Fashion",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\",
       "BasePath": "_content/Fashion",
       "RelativePath": "js/jquery.slicknav.js",
       "AssetKind": "All",
@@ -1936,10 +1936,10 @@
       "OriginalItemSpec": "wwwroot\\js\\jquery.slicknav.js"
     },
     {
-      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\js\\jquery-3.3.1.min.js",
+      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\js\\jquery-3.3.1.min.js",
       "SourceId": "Fashion",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\",
       "BasePath": "_content/Fashion",
       "RelativePath": "js/jquery-3.3.1.min.js",
       "AssetKind": "All",
@@ -1955,10 +1955,10 @@
       "OriginalItemSpec": "wwwroot\\js\\jquery-3.3.1.min.js"
     },
     {
-      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\js\\main.js",
+      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\js\\main.js",
       "SourceId": "Fashion",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\",
       "BasePath": "_content/Fashion",
       "RelativePath": "js/main.js",
       "AssetKind": "All",
@@ -1974,10 +1974,10 @@
       "OriginalItemSpec": "wwwroot\\js\\main.js"
     },
     {
-      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\js\\mixitup.min.js",
+      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\js\\mixitup.min.js",
       "SourceId": "Fashion",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\",
       "BasePath": "_content/Fashion",
       "RelativePath": "js/mixitup.min.js",
       "AssetKind": "All",
@@ -1993,10 +1993,10 @@
       "OriginalItemSpec": "wwwroot\\js\\mixitup.min.js"
     },
     {
-      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\js\\owl.carousel.min.js",
+      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\js\\owl.carousel.min.js",
       "SourceId": "Fashion",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\",
       "BasePath": "_content/Fashion",
       "RelativePath": "js/owl.carousel.min.js",
       "AssetKind": "All",
@@ -2012,10 +2012,10 @@
       "OriginalItemSpec": "wwwroot\\js\\owl.carousel.min.js"
     },
     {
-      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\sass\\_about.scss",
+      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\sass\\_about.scss",
       "SourceId": "Fashion",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\",
       "BasePath": "_content/Fashion",
       "RelativePath": "sass/_about.scss",
       "AssetKind": "All",
@@ -2031,10 +2031,10 @@
       "OriginalItemSpec": "wwwroot\\sass\\_about.scss"
     },
     {
-      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\sass\\_base.scss",
+      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\sass\\_base.scss",
       "SourceId": "Fashion",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\",
       "BasePath": "_content/Fashion",
       "RelativePath": "sass/_base.scss",
       "AssetKind": "All",
@@ -2050,10 +2050,10 @@
       "OriginalItemSpec": "wwwroot\\sass\\_base.scss"
     },
     {
-      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\sass\\_blog.scss",
+      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\sass\\_blog.scss",
       "SourceId": "Fashion",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\",
       "BasePath": "_content/Fashion",
       "RelativePath": "sass/_blog.scss",
       "AssetKind": "All",
@@ -2069,10 +2069,10 @@
       "OriginalItemSpec": "wwwroot\\sass\\_blog.scss"
     },
     {
-      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\sass\\_blog-details.scss",
+      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\sass\\_blog-details.scss",
       "SourceId": "Fashion",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\",
       "BasePath": "_content/Fashion",
       "RelativePath": "sass/_blog-details.scss",
       "AssetKind": "All",
@@ -2088,10 +2088,10 @@
       "OriginalItemSpec": "wwwroot\\sass\\_blog-details.scss"
     },
     {
-      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\sass\\_blog-sidebar.scss",
+      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\sass\\_blog-sidebar.scss",
       "SourceId": "Fashion",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\",
       "BasePath": "_content/Fashion",
       "RelativePath": "sass/_blog-sidebar.scss",
       "AssetKind": "All",
@@ -2107,10 +2107,10 @@
       "OriginalItemSpec": "wwwroot\\sass\\_blog-sidebar.scss"
     },
     {
-      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\sass\\_breadcrumb.scss",
+      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\sass\\_breadcrumb.scss",
       "SourceId": "Fashion",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\",
       "BasePath": "_content/Fashion",
       "RelativePath": "sass/_breadcrumb.scss",
       "AssetKind": "All",
@@ -2126,10 +2126,10 @@
       "OriginalItemSpec": "wwwroot\\sass\\_breadcrumb.scss"
     },
     {
-      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\sass\\_checkout.scss",
+      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\sass\\_checkout.scss",
       "SourceId": "Fashion",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\",
       "BasePath": "_content/Fashion",
       "RelativePath": "sass/_checkout.scss",
       "AssetKind": "All",
@@ -2145,10 +2145,10 @@
       "OriginalItemSpec": "wwwroot\\sass\\_checkout.scss"
     },
     {
-      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\sass\\_contact.scss",
+      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\sass\\_contact.scss",
       "SourceId": "Fashion",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\",
       "BasePath": "_content/Fashion",
       "RelativePath": "sass/_contact.scss",
       "AssetKind": "All",
@@ -2164,10 +2164,10 @@
       "OriginalItemSpec": "wwwroot\\sass\\_contact.scss"
     },
     {
-      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\sass\\_footer.scss",
+      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\sass\\_footer.scss",
       "SourceId": "Fashion",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\",
       "BasePath": "_content/Fashion",
       "RelativePath": "sass/_footer.scss",
       "AssetKind": "All",
@@ -2183,10 +2183,10 @@
       "OriginalItemSpec": "wwwroot\\sass\\_footer.scss"
     },
     {
-      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\sass\\_header.scss",
+      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\sass\\_header.scss",
       "SourceId": "Fashion",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\",
       "BasePath": "_content/Fashion",
       "RelativePath": "sass/_header.scss",
       "AssetKind": "All",
@@ -2202,10 +2202,10 @@
       "OriginalItemSpec": "wwwroot\\sass\\_header.scss"
     },
     {
-      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\sass\\_hero.scss",
+      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\sass\\_hero.scss",
       "SourceId": "Fashion",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\",
       "BasePath": "_content/Fashion",
       "RelativePath": "sass/_hero.scss",
       "AssetKind": "All",
@@ -2221,10 +2221,10 @@
       "OriginalItemSpec": "wwwroot\\sass\\_hero.scss"
     },
     {
-      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\sass\\_home-page.scss",
+      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\sass\\_home-page.scss",
       "SourceId": "Fashion",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\",
       "BasePath": "_content/Fashion",
       "RelativePath": "sass/_home-page.scss",
       "AssetKind": "All",
@@ -2240,10 +2240,10 @@
       "OriginalItemSpec": "wwwroot\\sass\\_home-page.scss"
     },
     {
-      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\sass\\_mixins.scss",
+      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\sass\\_mixins.scss",
       "SourceId": "Fashion",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\",
       "BasePath": "_content/Fashion",
       "RelativePath": "sass/_mixins.scss",
       "AssetKind": "All",
@@ -2259,10 +2259,10 @@
       "OriginalItemSpec": "wwwroot\\sass\\_mixins.scss"
     },
     {
-      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\sass\\_product.scss",
+      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\sass\\_product.scss",
       "SourceId": "Fashion",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\",
       "BasePath": "_content/Fashion",
       "RelativePath": "sass/_product.scss",
       "AssetKind": "All",
@@ -2278,10 +2278,10 @@
       "OriginalItemSpec": "wwwroot\\sass\\_product.scss"
     },
     {
-      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\sass\\_responsive.scss",
+      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\sass\\_responsive.scss",
       "SourceId": "Fashion",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\",
       "BasePath": "_content/Fashion",
       "RelativePath": "sass/_responsive.scss",
       "AssetKind": "All",
@@ -2297,10 +2297,10 @@
       "OriginalItemSpec": "wwwroot\\sass\\_responsive.scss"
     },
     {
-      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\sass\\_shop.scss",
+      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\sass\\_shop.scss",
       "SourceId": "Fashion",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\",
       "BasePath": "_content/Fashion",
       "RelativePath": "sass/_shop.scss",
       "AssetKind": "All",
@@ -2316,10 +2316,10 @@
       "OriginalItemSpec": "wwwroot\\sass\\_shop.scss"
     },
     {
-      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\sass\\_shop-details.scss",
+      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\sass\\_shop-details.scss",
       "SourceId": "Fashion",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\",
       "BasePath": "_content/Fashion",
       "RelativePath": "sass/_shop-details.scss",
       "AssetKind": "All",
@@ -2335,10 +2335,10 @@
       "OriginalItemSpec": "wwwroot\\sass\\_shop-details.scss"
     },
     {
-      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\sass\\_shopping-cart.scss",
+      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\sass\\_shopping-cart.scss",
       "SourceId": "Fashion",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\",
       "BasePath": "_content/Fashion",
       "RelativePath": "sass/_shopping-cart.scss",
       "AssetKind": "All",
@@ -2354,10 +2354,10 @@
       "OriginalItemSpec": "wwwroot\\sass\\_shopping-cart.scss"
     },
     {
-      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\sass\\_variable.scss",
+      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\sass\\_variable.scss",
       "SourceId": "Fashion",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\",
       "BasePath": "_content/Fashion",
       "RelativePath": "sass/_variable.scss",
       "AssetKind": "All",
@@ -2373,10 +2373,10 @@
       "OriginalItemSpec": "wwwroot\\sass\\_variable.scss"
     },
     {
-      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\sass\\style.scss",
+      "Identity": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\sass\\style.scss",
       "SourceId": "Fashion",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion\\Fashion\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\wwwroot\\",
       "BasePath": "_content/Fashion",
       "RelativePath": "sass/style.scss",
       "AssetKind": "All",
