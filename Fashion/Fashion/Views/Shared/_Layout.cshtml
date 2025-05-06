@@ -36,22 +36,11 @@
         <div class="offcanvas__option">
             <div class="offcanvas__links">
                 <a href="#">Sign in</a>
-                <a href="#">FAQs</a>
-            </div>
-            <div class="offcanvas__top__hover">
-                <span>Usd <i class="arrow_carrot-down"></i></span>
-                <ul>
-                    <li>USD</li>
-                    <li>EUR</li>
-                    <li>USD</li>
-                </ul>
+                <a href="#">Log in</a>
             </div>
         </div>
         <div class="offcanvas__nav__option">
-            <a href="#" class="search-switch"><img src="~/img/icon/search.png" alt=""></a>
-            <a href="#"><img src="~/img/icon/heart.png" alt=""></a>
-            <a href="#"><img src="~/img/icon/cart.png" alt=""> <span>0</span></a>
-            <div class="price">$0.00</div>
+            <a asp-controller="Home" asp-action="Cart"><img src="~/img/icon/cart.png" alt=""> <span>0</span></a>
         </div>
         <div id="mobile-menu-wrap"></div>
         <div class="offcanvas__text">
@@ -72,16 +61,8 @@
                     <div class="col-lg-6 col-md-5">
                         <div class="header__top__right">
                             <div class="header__top__links">
-                                <a href="#">Sign in</a>
-                                <a href="#">FAQs</a>
-                            </div>
-                            <div class="header__top__hover">
-                                <span>Usd <i class="arrow_carrot-down"></i></span>
-                                <ul>
-                                    <li>USD</li>
-                                    <li>EUR</li>
-                                    <li>USD</li>
-                                </ul>
+                                <a asp-controller="Account" asp-action="Register">Sign in</a>
+                                <a asp-controller="Account" asp-action="Login">Log in</a>
                             </div>
                         </div>
                     </div>
@@ -98,7 +79,7 @@
                 <div class="col-lg-6 col-md-6">
                     <nav class="header__menu mobile-menu">
                         <ul>
-                            <li class="active"><a asp-controller="Home" asp-action="Index">Home</a></li>
+                            <li ><a asp-controller="Home" asp-action="Index">Home</a></li>
                             <li><a asp-controller="Shop" asp-action="Index">Shop</a></li>
                             <li><a asp-controller="Blog" asp-action="Index">Blog</a></li>
                             <li><a asp-controller="About" asp-action="Index">About</a></li>
@@ -108,10 +89,7 @@
                 </div>
                 <div class="col-lg-3 col-md-3">
                     <div class="header__nav__option">
-                        <a href="#" class="search-switch"><img src="~/img/icon/search.png" alt=""></a>
-                        <a href="#"><img src="~/img/icon/heart.png" alt=""></a>
-                        <a href="#"><img src="~/img/icon/cart.png" alt=""> <span>0</span></a>
-                        <div class="price">$0.00</div>
+                        <a asp-controller="Home" asp-action="Cart"><img src="~/img/icon/cart.png" alt=""> <span>0</span></a>
                     </div>
                 </div>
             </div>

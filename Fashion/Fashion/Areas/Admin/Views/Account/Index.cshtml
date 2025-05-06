@@ -1,0 +1,46 @@
+﻿<div class="container my-4">
+
+    <!-- Heading -->
+    <h1 class="text-center text-dark mb-4">User Management</h1>
+
+
+    <!-- Table -->
+    <div class="table-responsive">
+        <table class="table table-bordered table-striped">
+            <thead class="table-light">
+                <tr>
+                    <th class="text-start">Full Name</th>
+                    <th class="text-start">Username</th>
+                    <th class="text-center">Actions</th>
+                </tr>
+            </thead>
+            <tbody>
+                <!-- Fake user entries -->
+                <tr>
+                    <td>John Doe</td>
+                    <td>johndoe</td>
+                    <td class="text-center">
+                        <a asp-area="Admin" asp-controller="Account" asp-action="Detail" class="btn btn-info btn-sm me-2">Detail</a>
+                        <a href="/Admin/User/Delete/1" class="btn btn-danger btn-sm">Delete</a>
+                    </td>
+                </tr>
+                <tr>
+                    <td>Jane Smith</td>
+                    <td>janesmith</td>
+                    <td class="text-center">
+                        <a href="/Admin/User/Detail/2" class="btn btn-info btn-sm me-2">Detail</a>
+                        <a href="/Admin/User/Delete/2" class="btn btn-danger btn-sm">Delete</a>
+                    </td>
+                </tr>
+                <tr>
+                    <td>Michael Johnson</td>
+                    <td>michaelj</td>
+                    <td class="text-center">
+                        <a href="/Admin/User/Detail/3" class="btn btn-info btn-sm me-2">Detail</a>
+                        <a href="/Admin/User/Delete/3" class="btn btn-danger btn-sm">Delete</a>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</div>

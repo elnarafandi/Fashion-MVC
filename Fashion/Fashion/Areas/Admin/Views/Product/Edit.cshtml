@@ -1,0 +1,59 @@
+﻿<div class="container my-4">
+
+    <!-- Heading -->
+    <h1 class="text-center text-dark mb-4">Edit Product</h1>
+
+    <!-- Product Edit Form Section -->
+    <div class="row">
+        <div class="col-md-8 offset-md-2">
+            <form method="post" action="/Admin/Product/Edit/1">
+                <!-- Product Name -->
+                <div class="mb-3">
+                    <label for="Name" class="form-label">Name</label>
+                    <input type="text" class="form-control" id="Name" name="Name" value="T-shirt" required />
+                </div>
+
+                <!-- Product Price -->
+                <div class="mb-3">
+                    <label for="Price" class="form-label">Price</label>
+                    <input type="number" class="form-control" id="Price" name="Price" value="25.99" step="0.01" required />
+                </div>
+
+                <!-- Product Description -->
+                <div class="mb-3">
+                    <label for="Description" class="form-label">Description</label>
+                    <textarea class="form-control" id="Description" name="Description" rows="4" required>
+                        This T-shirt is made from high-quality cotton and is perfect for casual wear. It is available in various sizes and colors.
+                    </textarea>
+                </div>
+
+                <!-- Product Size -->
+                <div class="mb-3">
+                    <label for="Size" class="form-label">Size</label>
+                    <input type="text" class="form-control" id="Size" name="Size" value="Medium" required />
+                </div>
+
+                <!-- Product Category -->
+                <div class="mb-3">
+                    <label for="CategoryId" class="form-label">Category</label>
+                    <select class="form-select" id="CategoryId" name="CategoryId" required>
+                        <option value="1" selected>T-shirt</option>
+                        <option value="2">Jeans</option>
+                        <option value="3">Jacket</option>
+                    </select>
+                </div>
+
+                <!-- Product Images -->
+                <div class="mb-3">
+                    <label for="ProductImages" class="form-label">Product Images</label>
+                    <input type="file" class="form-control" id="ProductImages" name="ProductImages" multiple />
+                </div>
+
+                <!-- Submit Button -->
+                <div class="d-flex justify-content-center">
+                    <button type="submit" class="btn btn-primary">Update Product</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
