@@ -35,8 +35,8 @@
     <div class="offcanvas-menu-wrapper">
         <div class="offcanvas__option">
             <div class="offcanvas__links">
-                <a href="#">Sign in</a>
-                <a href="#">Log in</a>
+                <a asp-controller="Account" asp-action="Login">Log in</a>
+                <a asp-controller="Account" asp-action="Register">Register</a>
             </div>
         </div>
         <div class="offcanvas__nav__option">
@@ -61,8 +61,8 @@
                     <div class="col-lg-6 col-md-5">
                         <div class="header__top__right">
                             <div class="header__top__links">
-                                <a asp-controller="Account" asp-action="Register">Sign in</a>
                                 <a asp-controller="Account" asp-action="Login">Log in</a>
+                                <a asp-controller="Account" asp-action="Register">Register</a>
                             </div>
                         </div>
                     </div>
