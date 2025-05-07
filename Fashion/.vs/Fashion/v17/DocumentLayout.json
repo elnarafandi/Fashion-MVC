@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{331EB750-88D6-42C0-A331-15773984C6B7}|Fashion\\Fashion.csproj|c:\\users\\elnare\\desktop\\fashion-mvc\\fashion\\fashion\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{331EB750-88D6-42C0-A331-15773984C6B7}|Fashion\\Fashion.csproj|solutionrelative:fashion\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{331EB750-88D6-42C0-A331-15773984C6B7}|Fashion\\Fashion.csproj|c:\\users\\elnare\\desktop\\fashion-mvc\\fashion\\fashion\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{331EB750-88D6-42C0-A331-15773984C6B7}|Fashion\\Fashion.csproj|solutionrelative:fashion\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,9 +28,22 @@
               "RelativeDocumentMoniker": "Fashion\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Fashion\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAABsAAAAAAAAAAAAAACYAAABBAAAA",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAAAGAAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-07T04:29:06.901Z",
+              "WhenOpened": "2025-05-07T17:55:39.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\Views\\Contact\\Index.cshtml",
+              "RelativeDocumentMoniker": "Fashion\\Views\\Contact\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Elnare\\Desktop\\Fashion-MVC\\Fashion\\Fashion\\Views\\Contact\\Index.cshtml",
+              "RelativeToolTip": "Fashion\\Views\\Contact\\Index.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAiwBcAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-07T17:48:40.442Z",
               "EditorCaption": ""
             }
           ]
